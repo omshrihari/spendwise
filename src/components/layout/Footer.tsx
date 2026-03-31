@@ -9,7 +9,7 @@ export function Footer() {
           <span>Made with ❤️</span>
           <span className="hidden sm:inline">|</span>
           <a
-            href="https://github.com/om-shri-hari/spendwise"
+            href="https://github.com/omshrihari/spendwise"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 hover:text-slate-900 dark:hover:text-white transition-colors"
