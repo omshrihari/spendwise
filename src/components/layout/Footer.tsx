@@ -15,7 +15,7 @@ export function Footer() {
             className="flex items-center gap-2 hover:text-slate-900 dark:hover:text-white transition-colors"
           >
             <Github size={16} />
-            with the demo link of the repo
+            Github
           </a>
         </div>
       </div>
